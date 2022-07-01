@@ -42,7 +42,7 @@ You will also see any lint errors in the console.
 
 ## Loom Video Link
 
-### [Loom](#)
+### [Loom](https://www.loom.com/share/cdba46e67d90463a8dcfe7858b2cd7b5)
 
 
 
