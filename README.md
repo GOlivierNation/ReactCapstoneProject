@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/ReacrReduxCapstone-orange)
 
-# Covid_19_data
+# Covid 19 Africa metric data.
 
 ## Description
 - This React capstone project (remember what are they?)is about building a mobile web application to check a list of metrics (numeric values) that you will create making use of React and Redux.
@@ -38,7 +38,7 @@ You will also see any lint errors in the console.
 
 ## Live Demo Link
 
-### [Live Demo](#)
+### [Live Demo](https://metricdatacovid19.netlify.app/)
 
 ## Loom Video Link
 
